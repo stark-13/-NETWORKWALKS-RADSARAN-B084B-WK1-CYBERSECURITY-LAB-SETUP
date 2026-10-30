@@ -20,7 +20,10 @@ Since Kali Linux was already installed on my system, the main objective was to c
 ### Guest Operating System
 - Kali Linux
 ---
-Lab-setup-kali-project/kali-in-virtualBox.png
+
+Lab-setup-kali-project
+/kali-in-virtualBox.png
+
 
 
 ## Network Configuration
