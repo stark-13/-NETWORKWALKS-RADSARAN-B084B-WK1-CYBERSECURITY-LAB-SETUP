@@ -12,15 +12,16 @@ Since Kali Linux was already installed on my system, the main objective was to c
 ## Lab Environment
 
 ### Host Machine
-- Windows 10
+- Windows 11
 
 ### Virtualization Platform
 - Oracle VirtualBox
 
 ### Guest Operating System
 - Kali Linux
-
 ---
+Lab-setup-kali-project/kali-in-virtualBox.png
+
 
 ## Network Configuration
 
